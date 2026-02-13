@@ -266,7 +266,7 @@ h1 {
   overflow: hidden;
   border-right: .15em solid #fff;
   color: #fff;
-  white-space: normal;
+  white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .03em;
   animation:
@@ -279,7 +279,7 @@ h3 {
   overflow: hidden;
   border-right: .15em solid transparent;
   color: #fff;
-  white-space: normal;
+  white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .03em;
   animation:
@@ -293,7 +293,7 @@ h2 {
   overflow: hidden;
   border-right: .15em solid transparent;
   color: #fff;
-  white-space: normal;
+  white-space: nowrap;
   margin: 0 auto;
   letter-spacing: .03em;
   animation:
@@ -483,4 +483,5 @@ body {
   margin-left: auto;
   margin-right: auto;
 }
+
 
